@@ -74,7 +74,7 @@
         width: 80%;
     }
 
-    .player h2,p{
+    .player h2{
         text-align: left;
     }
 
@@ -100,7 +100,7 @@
 
    .newsletter h1,p{
      color: #11171A;
-     text-align: center;
+     text-align: left;
  }
 
     .subscribe-button{

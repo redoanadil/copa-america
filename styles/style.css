@@ -251,13 +251,13 @@ a{
      text-align: left;
  }
 
- .newsletter h1{
+ /* .newsletter h1{
      margin-left: 20%;
  }
 
  .newsletter p{
      margin-left: 35%;
- }
+ } */
 
 .subscribe-form{
     display: flex;

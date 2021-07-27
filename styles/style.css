@@ -202,9 +202,11 @@ a{
 
 .latest-news hr{
     color: rgba(107, 104, 104, 0.733);
-    margin-left: 195px;
-    margin-right: 117px;
     margin-bottom: 30px;
+    width: 100px;
+    height: 10px;
+    background-color: orange;
+    border: 1px solid orange;
 }
 
 .all-news{

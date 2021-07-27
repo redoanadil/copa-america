@@ -1,5 +1,8 @@
 @media only screen and (max-width:688px) {
 
+    header{
+        height: auto;
+    }
 
     nav{
         align-items: center;
@@ -42,9 +45,9 @@
 
     .heading-image{
         width: 100%;
-        /* margin-left: 175px;
-        margin-top: 110px; */
-}
+        margin-left: 15%;
+        margin-top: 80px;
+   }
 
     .heading-info h1{
         font-size: 50px;
@@ -54,6 +57,7 @@
     }
 
     .heading-info a{
+        font-size: 16px;
         margin-right: 180px;
         margin-left: 20px;
     }
@@ -67,8 +71,43 @@
     }
 
     .player{
-        width: 68%;
+        width: 80%;
     }
+
+    .player h2,p{
+        text-align: left;
+    }
+
+    .latest-news h1{
+        font-size: 40px;
+        margin-bottom: 0px;
+    }
+
+    .latest-news hr{
+        margin-left: 220px;
+        margin-right: 117px;
+        margin-bottom: 30px;
+    }
+
+    .all-news{
+        flex-direction: column;
+        margin-left: 100px;
+   }
+
+   .newsletter{
+       height: auto;
+   }
+
+   .newsletter h1,p{
+     color: #11171A;
+     text-align: center;
+ }
+
+    .subscribe-button{
+    width: 60%;
+    margin-left: 25%;
+
+   }
 
      .footer-design img {
         width: 320px;

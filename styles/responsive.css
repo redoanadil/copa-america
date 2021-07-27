@@ -10,6 +10,12 @@
         padding-top: 30px;
         padding-left: 0px;
     }
+
+    .menu{
+        display: none;
+    }
+
+
     .mobile-nav{
         display: block;
         margin-right: 160px;
@@ -18,10 +24,7 @@
         width: 30px;
         height: 30px;
     }
-    .menu{
-        display: none;
-    }
-
+    
     .login{
 
         width: 90px;
@@ -93,18 +96,18 @@
    }
 
    .newsletter{
-       height: auto;
-       margin-left: 10%;
+        height: auto;
+        margin-left: 10%;
    }
 
    .newsletter h1,p{
-     color: #11171A;
-     text-align: left;
+        color: #11171A;
+        text-align: left;
  }
 
     .subscribe-button{
-    width: 60%;
-    margin-left: 25%;
+        width: 60%;
+        margin-left: 25%;
 
    }
 

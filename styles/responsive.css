@@ -84,9 +84,7 @@
     }
 
     .latest-news hr{
-        margin-left: 220px;
-        margin-right: 117px;
-        margin-bottom: 30px;
+        width: 15%;
     }
 
     .all-news{
